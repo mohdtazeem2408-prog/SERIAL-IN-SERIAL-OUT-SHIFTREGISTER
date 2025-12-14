@@ -66,6 +66,9 @@ RTL LOGIC FOR SISO Shift Register:
 
 TIMING DIGRAMS FOR SISO Shift Register
 
+
+
+
 <img width="1037" height="548" alt="Screenshot 2025-12-14 091307" src="https://github.com/user-attachments/assets/70e1013c-5cf8-4126-b0fb-d77f98f189f8" />
 
 
